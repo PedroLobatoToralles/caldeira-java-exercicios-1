@@ -1,2 +1,2 @@
-# caldeira-java-exercicios-1
-Exercícios desenvolvidos durante o Geração Caldeira 2023
+# caldeira-java-exercicios
+Exercícios das aulas de java do caldeira
